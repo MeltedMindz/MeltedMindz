@@ -1,5 +1,5 @@
 # Hello, I'm MeltedMindz 
-### Let's build **OnCyber** (https://oncyber.io/6343)
+### Let's build **OnCyber** https://oncyber.io/6343
 ### Co-Founder of **mfers cannabis co.** https://twitter.com/mferscannabisco
 
 <!--
