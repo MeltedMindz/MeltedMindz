@@ -1,4 +1,7 @@
-### Attempting to bridge webs #mfers #ocketpool  Co-Founder of https://twitter.com/mferscannabisco Retired Gambler
+### Attempting to bridge web 
+# Co-Founder of https://twitter.com/mferscannabisco 
+# Retired Gambler
+# #mfers #Rocketpool
 
 
 <!--
