@@ -1,7 +1,5 @@
 ### Hello, I'm MeltedMindz 
 ## Co-Founder of https://twitter.com/mferscannabisco 
-# #mfers #Rocketpool
-
 
 <!--
 **MeltedMindz/MeltedMindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
