@@ -1,6 +1,5 @@
-### Attempting to bridge web 
-# Co-Founder of https://twitter.com/mferscannabisco 
-# Retired Gambler
+### Hello, I'm MeltedMindz 
+## Co-Founder of https://twitter.com/mferscannabisco 
 # #mfers #Rocketpool
 
 
