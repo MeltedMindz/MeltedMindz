@@ -1,6 +1,6 @@
-### Hello, I'm MeltedMindz 
-## Let's build OnCyber https://oncyber.io/6343
-# Co-Founder of https://twitter.com/mferscannabisco 
+# Hello, I'm MeltedMindz 
+### Let's build OnCyber https://oncyber.io/6343
+### Co-Founder of https://twitter.com/mferscannabisco 
 
 <!--
 **MeltedMindz/MeltedMindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
