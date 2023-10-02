@@ -1,5 +1,4 @@
 # Hello, I'm MeltedMindz 
-### Co-Founder Mfers Cannabis Company
 ### Twitter: https://twitter.com/MeltedMindz
 ### Positive onboarding is the answer. 
 
