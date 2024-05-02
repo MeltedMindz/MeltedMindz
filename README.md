@@ -1,6 +1,6 @@
-# Hello, I'm MeltedMindz 
-### Twitter: https://twitter.com/MeltedMindz
-### Positive onboarding is the answer. 
+# MeltedMindz 
+### https://twitter.com/MeltedMindz
+### https://warpcast.com/meltedmindz.eth
 
 <!--
 **MeltedMindz/MeltedMindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
