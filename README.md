@@ -1,6 +1,7 @@
 # MeltedMindz 
 
-![1500x500](https://github.com/user-attachments/assets/a0e1c27c-7c16-47c3-b1a3-59f51aabef3c)
+![banner](https://github.com/user-attachments/assets/1b344614-9c14-4f03-a772-b67ef7830ad9)
+
 
 ### https://twitter.com/MeltedMindz
 
